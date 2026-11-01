@@ -1,0 +1,54 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-public
+-source
+'17'
+-sourcepath
+'c:/Users/mateu/OneDrive/Desktop/Workspace/Projeto Final - Map/ProjetoMap/src/main/java;c:/Users/mateu/OneDrive/Desktop/Workspace/Projeto Final - Map/ProjetoMap/target/generated-sources/annotations'
+-Xdoclint:none
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/mateu/OneDrive/Desktop/Workspace/Projeto Final - Map/ProjetoMap/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Projeto Final MAP 2026.1 - Mini-Framework de Jogos de Cartas 1.0.0 API'
+-use
+-version
+-windowtitle
+'Projeto Final MAP 2026.1 - Mini-Framework de Jogos de Cartas 1.0.0 API'
+com.map.framework.card
+com.map.framework.exception
+com.map.framework.game
+com.map.framework
+com.map.framework.player
+com.map.games.blackjack
+com.map.games.supertrunfo
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\src\main\java = 1786033527399
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\generated-sources\annotations = 1787158325500
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\allclasses-index.html = 1787158370593
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\allpackages-index.html = 1787158370605
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\constant-values.html = 1787158370431
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\copy.svg = 1787158370640
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\element-list = 1787158370372
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\help-doc.html = 1787158370640
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\index-all.html = 1787158370636
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\index.html = 1787158370581
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\jquery-ui.overrides.css = 1787158370672
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\member-search-index.js = 1787158370607
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\module-search-index.js = 1787158370607
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\overview-summary.html = 1787158370638
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\overview-tree.html = 1787158370579
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\package-search-index.js = 1787158370607
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\script.js = 1787158370640
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\search.js = 1787158370648
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\serialized-form.html = 1787158370431
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\stylesheet.css = 1787158370640
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\tag-search-index.js = 1787158370607
+c:\Users\mateu\OneDrive\Desktop\Workspace\Projeto Final - Map\ProjetoMap\target\apidocs\type-search-index.js = 1787158370607

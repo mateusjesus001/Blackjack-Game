@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.map.framework"},{"l":"com.map.framework.card"},{"l":"com.map.framework.exception"},{"l":"com.map.framework.game"},{"l":"com.map.framework.player"},{"l":"com.map.games.blackjack"},{"l":"com.map.games.supertrunfo"}];updateSearchResults();
